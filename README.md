@@ -48,6 +48,23 @@ EOS不算是李老师的币
 
 **</佩佩批注>**
 
+**<老韭菜批注>**
+
+怀着链圈的梦，行的币圈的路。
+
+1、记得我刚入圈的时候，只知道比特币和以太坊，最后因为价格低买的以太坊（很韭菜的选择思维，为什么见：https://m.weibo.cn/status/4404572157688834?sudaref=login.sina.com.cn ）。
+
+2、一直到现在，很多新人入场经常问某某币怎么样，要不要买。其实我建议你都可以试试，赚到钱就跑（包括EOS）。
+
+3、很多人通过学习了解到 “屯、配置、不要动”，作为投资圣经。最后的结果可能是“归零”。想想17年大热的唯链、域链、公信宝；18年的 Hashgraph、Rsk 四大天王，何况其他。
+
+4、在币圈这个快速迭代的市场，把个性化的经历作为确定性结果输出是不负责任的，“选错币，不会买，不会卖” 不夸张的说，将万劫不复。
+
+5、你的资金是有限的，好的交易原则一定是能抵抗这些大坑的。所以，新人进圈，不要上来就长持某个币种，先做做短线，赚到钱就走。
+
+6、终将你会阅尽千帆，那时候你选择短线、长线、何时买卖，都是属于你的交易原则了。
+
+**</老韭菜批注>**
 
 ## 前言
 
@@ -849,51 +866,4 @@ git push -u origin master
 
 ## 关于批注者
 
-JKR Family，又称“家人组”，是一些想通过炒币和玩dapp来回本的玩家成立的非营利性组织。
-
-**<墨客批注>**
-
-**关于JKR Family怎么看待李老师**
-
-李老师是一个非常聪明的人，他写的书也很值得一看。他对于区块链的很多看法也非常正确简洁。对于中国币圈来说，他的引流也是“功德无量”。
-
-Fork这个版本，或许是出于对老师这个角色言行不一的反感。当年9.4之后李老师在某个会议，竟然说“他这辈子最自豪的事情是，从来没有鼓吹过比特币”。这个视频在币圈微信群传的时候，大家都是乐的。他大概忘了写过一篇“此物一出天下反”的文章了。
-
-李老师的“韭菜音频门”出来的时候，我们也有一种老师你不是让我们冲锋么，怎么你躲在后面数钱的感觉。不过平心而论，对于任何一个要进入区块链世界的人来说，“区块链小白书”的价值远远比不过[李笑来韭菜门录音](https://www.jianshu.com/p/a098a3825894?utm_campaign)。
-
-**真传一句话，假传万卷书。**
-
-李老师的一声声“操”、“傻逼”里面才是这个世界的真相。
-关于李老师的其他故事，我们并没有特别去整理，如果你有想法或者证据，私信微博“JKR家人组”。
-
-李老师的很多思想确实值得我们学习，例如践行与群智。
-JKR版区块链小白书，是一本集合群智的书，我们希望有非常不同的声音告诉小白们真实的区块链世界，欢迎你加入我们。
-如果你有兴趣参与编辑，可以私信微博“JKR家人组”，或者到[jkr-family@github](https://github.com/jkr-family/jkrfamily.com)给我们直接发pull request。
-
-**</墨客批注>**
-
-### 出版书籍
-
-> * TOEFL 核心词汇 21 天突破
-
-**<星主批注>**
-
-同是新东方老师出身，我觉得这本书真的是经典。你能从这本书里面看到一个人被逼入绝境以后只有21天去准备toefl时的那种超越人类极限的底力。我是打从心底里尊敬李老师，但是因为我现在做KOL，很多人真的会开始盲信我说的话，我必须更尊敬真理。
-
-**</星主批注>**
-
-> * [TOEFL 高分作文](http://lixiaolai.com/#/twe185/)
-> * [把时间当作朋友](http://lixiaolai.com/#/befriending-time/)
-> * 通往财富自由之路
-> * 韭菜的自我修养（[中文](http://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/) · [English](http://lixiaolai.com/#/the-self-cultivation-of-leeks/en/)）
-> * [自学是门手艺](http://lixiaolai.com/#/the-craft-of-selfteaching/)
-> * [定投改变命运（第三版）](https://onregularinvesting.com)
-
-### 其它
-
-> * [我也有话要说](http://lixiaolai.com/#/i-have-a-say/)
-> * [人人都能用英语](http://lixiaolai.com/#/everyone-can-use-english/)
-> * [挤挤都会有的 —— 写给女生的性高潮指南](http://lixiaolai.com/#/ji/)
-> * INBlockchain 开源投资原则 ([中文](http://lixiaolai.com/#/INB-principles/cn/) · [English](http://lixiaolai.com/#/INB-principles/en/))
-> * [Bitcoin 白皮书（中英对照）](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
-> * [区块链小白书](https://blockchainlittlebook.com)
+JKR Family，又称“家人组
